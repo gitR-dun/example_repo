@@ -4,3 +4,5 @@ I know how to use GitHub now.
 
 This is another line.
 
+trivial change
+
